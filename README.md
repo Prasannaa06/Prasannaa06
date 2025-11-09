@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Sri Laxmi Prasanna!
 
-<!--
 **Prasannaa06/Prasannaa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a BTech student in Computer Science and Engineering at **Sardar Vallabhbhai National Institute of Technology, Surat.** 
@@ -28,4 +27,4 @@ I aim to secure a position in a reputed organization where I can contribute to b
 📫 **Let's Connect!**
 Feel free to reach out to me — I’m always open to **collaborations, discussions, or learning opportunities**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sri-laxmi-prasanna)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto: bslprasanna2005@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto: bslprasanna2005@gmail.com)
