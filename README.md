@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Sri Laxmi Prasanna!
 
-**Prasannaa06/Prasannaa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a BTech student in Computer Science and Engineering at **Sardar Vallabhbhai National Institute of Technology, Surat.** 
 I have a strong passion of programming, web development, machine learning, deep learning and Natural Language Processing. 
 I'm also deeply interested in building Secure and Intelligent Systems that combine AI with robust safety and security principles. 
