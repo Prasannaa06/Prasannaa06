@@ -9,7 +9,10 @@ Currently I am focused on building impactful projects and enhancing my skills in
 
 Here are some of the projects I've worked on:
 
-- 🛒 **[Cartmate](https://github.com/Prasannaa06/Cartmate)** — A full-stack e-commerce platform built with the **MERN stack** and **Tailwind CSS**, featuring authentication, product management, and Stripe integration.  
+- 📄 **[ATS Optimized Resume Analyzer](https://github.com//Prasannaa06/ATS-Optimized-Resume-Analyzer)** — An ATS-optimized resume analyzer that provides personalized realtime feedback and insights based on users input, developed using Streamlit and Google Generative AI(Gemini Pro).
+  
+- 🛒 **[Cartmate](https://github.com/Prasannaa06/Cartmate)** — A full-stack e-commerce platform built with the **MERN stack** and **Tailwind CSS**, featuring authentication, product management, and Stripe integration.
+
 
 ## 🛠️ **Technologies & Tools**
 - **Languages:** Python, C/C++, JavaScript, SQL  
