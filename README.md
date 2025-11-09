@@ -13,6 +13,8 @@ Here are some of the projects I've worked on:
   
 - 🛒 **[Cartmate](https://github.com/Prasannaa06/Cartmate)** — A full-stack e-commerce platform built with the **MERN stack** and **Tailwind CSS**, featuring authentication, product management, and Stripe integration.
 
+- 🌱 **[E-Plant Shopping](https://github.com/Prasannaa06/e-plant_Shopping)** — A frontend React desktop application designed for plant enthusiasts to browse and purchase various plants online. The app features an intuitive user interface, detailed product listings, cart functionality and seamless navigation for a smooth shopping experience.
+
 
 ## 🛠️ **Technologies & Tools**
 - **Languages:** Python, C/C++, JavaScript, SQL  
