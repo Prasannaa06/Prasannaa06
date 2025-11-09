@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 - **Tools:** Git, Docker, Postman, VS Code, Jupyter Notebook 
 - **Databases:** MongoDB, MySQL  
 
-## 🌱 ** I am Currently Learning**
+## 🌱 **I am Currently Learning**
 - Advanced concepts in Deep Learning and CNN's
 - Natural Language Processing
 
